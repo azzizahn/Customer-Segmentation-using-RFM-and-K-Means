@@ -15,6 +15,7 @@ Before analyzing data, the first step that we usually do is data preparation. In
 
 # b. Feature Engineering
 In this step, we will creating new features such as: 
+| Feature Engineering |
 | :---             |
 |Age: 2024 (this year) - Year_Birth|
 |Children: Kidhome + Teenhome|
