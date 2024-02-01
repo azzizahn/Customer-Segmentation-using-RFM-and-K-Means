@@ -6,7 +6,7 @@ Analysis Process:
 # 1. Data Preparation
 Before analyzing data, the first step that we usually do is data preparation. In this data preparation, we will gathering, assessing, and cleaning data. Here's the result from data preparation:
 # a. Data Assessment
-| Data Assessment |  Right-aligned |
+| Data Assessment |  Cleaning |
 | :---            |           ---: |
 | There are 24 missing values in 'Income'      |  Imputation using median    |
 | No duplicated data        |  -      |
